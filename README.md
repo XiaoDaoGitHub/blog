@@ -3,6 +3,7 @@
 
 # Vue 源码
 - [为什么可以通过this取到属性、方法？](https://github.com/XiaoDaoGitHub/blog/issues/1)
+- [Vue递归渲染组件的过程](https://github.com/XiaoDaoGitHub/blog/issues/3)
 
 
 # JavaScript 杂记
