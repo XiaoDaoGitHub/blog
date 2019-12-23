@@ -9,3 +9,4 @@
 
 # JavaScript 杂记
 - [从原型链看babel编译class](https://github.com/XiaoDaoGitHub/blog/issues/2)
+- [预排序遍历树算法和JSON互转](https://github.com/XiaoDaoGitHub/blog/issues/5)
